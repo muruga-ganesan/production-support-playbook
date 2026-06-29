@@ -1,6 +1,6 @@
 # Production Support Playbook
 
-## 📌 Overview
+## Overview
 
 This repository contains real-world production support knowledge, troubleshooting guides, incident response procedures, runbooks, and Root Cause Analysis (RCA) documentation.
 
@@ -8,7 +8,7 @@ The objective is to build a practical knowledge base for handling production inc
 
 ---
 
-## 🚀 Topics Covered
+## Topics Covered
 
 - Incident Management
 - Major Incident Handling
@@ -25,7 +25,7 @@ The objective is to build a practical knowledge base for handling production inc
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 Runbooks/
@@ -40,7 +40,7 @@ Health-Checks/
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Splunk
 - Linux
@@ -51,12 +51,12 @@ Health-Checks/
 
 ---
 
-## 🎯 Goal
+## Goal
 
 Create a practical production support knowledge base for enterprise applications.
 
 ---
 
-## 📌 Status
+## Status
 
-🚧 Work in Progress
+Work in Progress
